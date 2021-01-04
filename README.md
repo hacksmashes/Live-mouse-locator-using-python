@@ -1,5 +1,5 @@
 # Live-mouse-locator-using-python
-Out will be in the position of x and y based on your mouse movement.
+Output will be in the position of x and y based on your mouse movement.
 The position will be change according to the cursor movement at real time.
 
 Module used:
